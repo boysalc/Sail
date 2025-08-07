@@ -139,30 +139,6 @@
     "expiresAt": "2035-12-31",
     "allowOffline": true
   },
-  {
-        "device_id": "ed52bd7b35944250",
-        "key": "ed52bd7b35944250",
-        "expirydate": "15-06-2035",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "77a2c848989049c9",
-        "key": "77a2c848989049c9",
-        "expirydate": "15-06-2035",
-        "Allowoffline": true
-    },
-  {
-        "device_id": "cc58d6c9a96469df",
-        "key": "cc58d6c9a96469df",
-        "expirydate": "10-08-2025",
-        "Allowoffline": false
-    },
-  {
-        "device_id": "26ebed5ae789b575",
-        "key": "26ebed5ae789b575",
-        "expirydate": "15-06-2035",
-        "Allowoffline": true
-    },
     {
         "device_id": "xxxxxxxxxxxxxxxx",
         "key": "xxxxxxxxxxxxxxx",

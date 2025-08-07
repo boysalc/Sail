@@ -139,6 +139,18 @@
     "expiresAt": "2035-12-31",
     "allowOffline": true
   },
+  {
+        "device_id": "ed52bd7b35944250",
+        "key": "ed52bd7b35944250",
+        "expirydate": "15-06-2035",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "77a2c848989049c9",
+        "key": "77a2c848989049c9",
+        "expirydate": "15-06-2035",
+        "Allowoffline": true
+    },
 {
     "id": "xxxxxxxxxxxxxxxxx",
     "username": "Anyname",
